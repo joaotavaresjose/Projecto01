@@ -60,7 +60,7 @@ function Footer() {
 
           <div className="border-t border-gray-700 mt-12 pt-8 text-center">
             <p className="text-gray-400">
-              © 2024 CPA Ofertas. Todos os direitos reservados. 
+              © 2025 CPA Ofertas. Todos os direitos reservados. 
               Ganhe dinheiro de forma legal e transparente.
             </p>
           </div>
